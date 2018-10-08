@@ -7,3 +7,4 @@ git commit -m "remote repository add a README.md"
 remote repository of git_tutorial
 
 
+remote repository of git_tutorial
